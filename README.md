@@ -9,9 +9,9 @@
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skysoftly/skysoftly/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skysoftly/skysoftly/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/skysoftly/skysoftly/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skysoftly/skysoftly/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skysoftly/skysoftly/output/snake.svg" />
+  <img alt="Halloween Snake" src="https://raw.githubusercontent.com/skysoftly/skysoftly/output/snake.svg" />
 </picture>
 
 </div>
